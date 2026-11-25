@@ -387,7 +387,7 @@ export default function App() {
                   <CheckCircle className="w-4.5 h-4.5 text-brand-lime" /> SELO EXCELÊNCIA ABF
                 </span>
                 <span className="text-xs md:text-sm font-bold tracking-wider flex items-center gap-2">
-                  <Star weight="fill" className="w-4.5 h-4.5 text-yellow-400" /> AVALIAÇÃO GOOGLE 4.9/5
+                  <Star weight="fill" className="w-4.5 h-4.5 text-yellow-400" /> AVALIAÇÃO GOOGLE 5.0/5
                 </span>
                 <span className="text-xs md:text-sm font-bold tracking-wider flex items-center gap-2">
                   <CheckCircle className="w-4.5 h-4.5 text-brand-lime" /> +25 MILHÕES DE SORRISOS
@@ -401,7 +401,7 @@ export default function App() {
                   <CheckCircle className="w-4.5 h-4.5 text-brand-lime" /> SELO EXCELÊNCIA ABF
                 </span>
                 <span className="text-xs md:text-sm font-bold tracking-wider flex items-center gap-2">
-                  <Star weight="fill" className="w-4.5 h-4.5 text-yellow-400" /> AVALIAÇÃO GOOGLE 4.9/5
+                  <Star weight="fill" className="w-4.5 h-4.5 text-yellow-400" /> AVALIAÇÃO GOOGLE 5.0/5
                 </span>
                 <span className="text-xs md:text-sm font-bold tracking-wider flex items-center gap-2">
                   <CheckCircle className="w-4.5 h-4.5 text-brand-lime" /> +25 MILHÕES DE SORRISOS

@@ -124,7 +124,7 @@ export const UNITS_DATA: Record<string, UnitData> = {
       },
       {
         name: 'Dr. Alexsandre Binotte Costa',
-        specialty: 'Cirurgião-Dentista / Equipe OdontoCompany',
+        specialty: 'Periodontista & Sócio da Clínica',
         cro: 'CRO: 3142-ES',
         photoUrl: '/images/dentistas/dr-especialista.webp'
       }
